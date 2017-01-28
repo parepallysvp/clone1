@@ -12,7 +12,7 @@ about html in <a href="http://www.w3schools.com/html/html_intro.asp"> w3schools 
 <li> heading </li>
 <li> paragraph <li>
 <li> bold </li>
-<li> italic </li>
+<li> <i>italic</i> </li>
 <li> anchor </li>
 <li> unorderd list & list items </li>
 <li> blockquote </li>
