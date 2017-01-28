@@ -3,10 +3,10 @@
 <h2>  Writing paragaphs in html </h2>
 <p> paragraphs in html on my website </p>
 <p> this paragraph contains words with font details like <b> bold </b> and also words in <i> italic </i>
-
+<hr />
 <p> html is a very simple mark-up language used for creating webpages, you can learn further
 about html in <a href="http://www.w3schools.com/html/html_intro.asp"> w3schools </a>. </p>
-
+<hr />
 <h4> this list contais the 10 most used html tags</h4>
 <ul>
 <li> heading </li>
@@ -20,3 +20,6 @@ about html in <a href="http://www.w3schools.com/html/html_intro.asp"> w3schools 
 <li> image </li>
 <li> division </li>
 </ul>
+<hr />
+
+
