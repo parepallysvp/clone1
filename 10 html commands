@@ -7,6 +7,7 @@
 <p> html is a very simple mark-up language used for creating webpages, you can learn further
 about html in <a href="http://www.w3schools.com/html/html_intro.asp"> w3schools </a>. </p>
 <hr />
+<div>
 <h4> this list contais the 10 most used html tags</h4>
 <ul>
 <li> heading </li>
@@ -20,6 +21,7 @@ about html in <a href="http://www.w3schools.com/html/html_intro.asp"> w3schools 
 <li> image </li>
 <li> division </li>
 </ul>
+</div>
 <hr />
 <div>
     <img src="kssGVtC.jpeg">
